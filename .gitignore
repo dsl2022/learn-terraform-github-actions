@@ -38,3 +38,7 @@ override.tf.json
 terraform.rc
 
 # End of https://www.toptal.com/developers/gitignore/api/terraform
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
